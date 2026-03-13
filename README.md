@@ -10,16 +10,14 @@ routeable prospect lists.
 
 | File | What it does |
 |------|-------------|
-| .agents/skills/SKILL.md | Orchestrator and routing logic |
-| .agents/skills/signal-hiring-intent-capture.md | Builds intent capture from hiring events with scoring and qualification filters. |
-| .agents/skills/signal-visitor-identification.md | Converts anonymous website traffic into enriched, route-ready contacts and accounts. |
-| .agents/skills/signal-linkedin-engagement-capture.md | Turns LinkedIn post engagement into scored lead lists with operational handoff output. |
-| .agents/skills/signal-tech-stack-qualification.md | Qualifies accounts from technology footprint and stack-gap indicators. |
-| .agents/skills/signal-funding-trigger-monitor.md | Detects and prioritized newly funded accounts using post-funding buying-window logic. |
-| .agents/skills/signal-source-prioritizer.md | Prioritizes signal sources by ICP fit, recency, confidence, and operational cost. |
-| .agents/skills/signal-multi-source-stacking.md | Advanced strategies for layering multiple data sources to isolate high-intent buyers. |
-| esources/references/data-sources-directory.md | Database of specialized B2B data providers organized by intent category. |
-| ECOSYSTEM.md | Cross-repo connectivity map |
+| `.agents/skills/SKILL.md` | Orchestrator and routing logic |
+| `.agents/skills/signal-hiring-intent-capture.md` | Builds intent capture from hiring events with scoring and qualification filters. |
+| `.agents/skills/signal-visitor-identification.md` | Converts anonymous website traffic into enriched, route-ready contacts and accounts. |
+| `.agents/skills/signal-linkedin-engagement-capture.md` | Turns LinkedIn post engagement into scored lead lists with operational handoff output. |
+| `.agents/skills/signal-tech-stack-qualification.md` | Qualifies accounts from technology footprint and stack-gap indicators. |
+| `.agents/skills/signal-funding-trigger-monitor.md` | Detects and prioritizes newly funded accounts using post-funding buying-window logic. |
+| `.agents/skills/signal-source-prioritizer.md` | Prioritizes signal sources by ICP fit, recency, confidence, and operational cost. |
+| `.agents/skills/signal-multi-source-stacking.md` | Advanced strategies for layering multiple data sources to isolate high-intent buyers. |
 
 ## Prerequisites
 
@@ -85,5 +83,6 @@ If this saves you time, star the repo and follow
 [Forma Nôrden on LinkedIn](https://www.linkedin.com/company/formanorden/).
 
 Built by [Forma Nôrden](https://formanorden.com/) - GTM engineering for B2B companies.
+
 
 
